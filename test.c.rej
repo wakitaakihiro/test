@@ -1,0 +1,7 @@
+diff a/test.c b/test.c	(rejected hunks)
+@@ -0,0 +1,5 @@
++#include <stdio.h>
++
++int main(){
++  printf("Hello World\n");
++}
